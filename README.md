@@ -5,7 +5,7 @@ I mostly just wanted alliteration, and "sundry" seemed to be the solution. Tbh d
 
 Most of these are teeny tiny scripts to make my life a little bit easier (and me a little bit lazier). Not for really for widespread use. 
 
-##Scripts
+## Scripts
 
 | Script | Use | Purpose |
 | --- | --- | --- | 
