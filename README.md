@@ -1,9 +1,7 @@
 # Sundry-Scripts
-Random scripts "not important enough to be mentioned individually" - Google
-
-I mostly just wanted alliteration, and "sundry" seemed to be the solution. Tbh didn't know what it meant until I Googled it lol.
-
 Most of these are teeny tiny scripts to make my life a little bit easier (and me a little bit lazier). Not for really for widespread use. 
+
+Random stuff in here. Added my .bash_profile to maintain my aliases somewhere.
 
 ## Scripts
 
