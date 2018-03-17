@@ -1,10 +1,4 @@
 ######################### MAKING MY TERMINAL BEAUTIFUL ########################
-#PS1='\[\033[36m\]\u\[\033[m\]@\h:\w 💩 $ '
-#PS1='\[\033[36m\]\u\[\033[m\]@\h:\W 💩 $ '
-#PS1='\[\033[36m\]\u\[\033[m\]@\h:\033[32m\]\w\033[m\] 🔥 $ '
-#PS1='\[\033[36m\]\u\[\033[m\]@\[\033[33m\]\h\[\033[m\]:\033[32m\]\w\033[m\] 🔥 $ '
-#PS1='\[\033[36m\]\u\[\033[m\]@\[\033[33m\]\h\[\033[m\]:\[\033[32m\]\W\[\033[m\] 🔥 $ '
-#PS1='\[\033[36m\]\u\[\033[m\]@\[\033[33m\]\h\[\033[m\]:\[\033[32m\]\w\[\033[m\] 🔥 $ '
 PS1='\[\033[36m\]\u\[\033[m\]@\[\033[33m\]\h\[\033[m\]:\[\033[32m\]\W\[\033[m\] 🥑 $ '
 
 ######################### I AM CS MAJOR I DO CS THINGS #########################
@@ -39,7 +33,7 @@ alias proj='cd /Users/kwijaya/Dropbox/Docs/Projects; l'
 alias burn='cd ~/Dropbox/Docs/Projects/Burn-Book; l'
 
 ############################### UCLA LNX LOGIN #################################
-alias lnx='~/Dropbox/Docs/SecondYear/Fall2016/ssh_in.sh'
+alias lnx='/Users/kwijaya/Dropbox/Docs/Projects/Sundry-Scripts/ssh_linux.sh'
 alias lnx7='ssh wijaya@lnxsrv07.seas.ucla.edu'
 alias lnx9='ssh wijaya@lnxsrv09.seas.ucla.edu'
 
@@ -49,10 +43,6 @@ alias boi='cd ~/Dropbox/Docs/Projects/ASCIIanim; ./ascii_anim.sh datboi.txt'
 alias globe='cd ~/Dropbox/Docs/Projects/ASCIIanim; ./ascii_anim.sh globe.txt'
 alias smoosh='cd ~/Dropbox/Docs/Projects/ASCIIanim; ./ascii_anim.sh smoosh.txt'
 alias think='cd ~/Dropbox/Docs/Projects/ASCIIanim; ./ascii_anim.sh thinkface.txt'
-alias lboi='printf '\''\e[8;43;80t'\''; printf '\''\e[3;500;90t'\''; cd ~/Dropbox/Docs/Dat; less datboi.txt'
-alias lglobe='printf '\''\e[8;26;59t'\''; printf '\''\e[3;800;100t'\''; cd ~/Dropbox/Docs/Dat; less globe.txt'
-alias liza='printf '\''\e[8;33;80t'\''; printf '\''\e[3;800;100t'\''; cd ~/Dropbox/Docs/Dat; cat thinkface.txt'
-alias lsmoosh='printf '\''\e[8;50;163t'\''; printf '\''\e[3;50;20t'\''; cd ~/Dropbox/Docs/Dat; less smoosh.txt'
 alias omfg='/usr/bin/open -a "/Applications/Google Chrome.app" 'http://www.omfgdogs.com''
 
 ########################## EMOJIS ARE SO FUN AND FARTSY ########################
